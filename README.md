@@ -7,8 +7,6 @@ Dashboard Analisis Performa Penjualan Gramedia (Studi Kasus Karawang &amp; Purwa
 
 Dashboard Analisis Performa Penjualan Gramedia (Studi Kasus Karawang & Purwakarta). Menganalisis total penjualan sebesar Rp64.340.000, tren harian, dan insight kategori buku.
 
-[TARUH GAMBAR DASHBOARD DI SINI DENGAN CARA DRAG & DROP ATAU PASTE]
-
 ## 📌 Objektif Proyek
 Menganalisis tren penjualan harian dan kontribusi kategori buku untuk memahami perilaku konsumen dan memberikan rekomendasi strategi persediaan barang (supply), khususnya pada hari libur.
 
